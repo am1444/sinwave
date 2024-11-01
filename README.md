@@ -25,3 +25,6 @@ Dist: how many lines each wave should be apart.
 Width: terminal width. Ideally this will be detected automatically in a future update.
 
 Wait: Amount of time to sleep in milliseconds between printing each line.
+
+
+Feel free to use any of the code in any of your own projects, it's not like there's a lot of it anyways.
