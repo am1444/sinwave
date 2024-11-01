@@ -3,7 +3,7 @@ macOS
 Arch Linux
 
 Installation:
-1: Clone repo _git clone 'https://'_
+1: Clone repo _git clone 'https://github.com/am1444/sinwave.git'_
 
 2: Go into repo directory.
 
